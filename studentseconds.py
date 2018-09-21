@@ -1,4 +1,4 @@
-#Nick Neiert ng7034mm
+#Nick 
 
 #This program will calculate the number of seconds a user has studied for a test.
 
