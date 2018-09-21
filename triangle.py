@@ -1,4 +1,4 @@
-#Nick Neiert ng7034mm
+#Nick
 #Assignment 2
 print('This program will calculate the area of a triangle. Please enter the base and height below. \n')
 base = float (input('Please enter the base of the triangle: ') )
